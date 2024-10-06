@@ -1,0 +1,4 @@
+repository "04lab1@L3monSenpai@cloud"
+  path "/"
+    br "/main"
+    co "/main"
